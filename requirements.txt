@@ -1,0 +1,17 @@
+appdirs==1.4.4
+biopython==1.78
+Cython==0.29.21
+freesasa==2.1.0
+imageio==2.9.0
+lightdock==0.8.1
+meshio==4.3.6
+numpy==1.19.4
+Pillow==8.0.1
+ProDy==1.10.11
+pyacvd==0.2.5
+pygamer==2.0.5
+pyparsing==2.4.7
+pyvista==0.27.4
+scipy==1.5.4
+scooby==0.5.6
+vtk==9.0.1
